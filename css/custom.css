@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Montserrat UltraLight';
-	src: url('../fonts/montserrat-ultralight.eot');
-	src: url('../fonts/montserrat-ultralight.eot#iefix') format('embedded-opentype'),
-		url('../fonts/montserrat-ultralight.woff') format('woff'),
-		url('../fonts/montserrat-ultralight.ttf') format('truetype'),
-		url('../fonts/montserrat-ultralight.svg#montserratultra_light') format('svg');
+	src: url('http://codex-themes.com/thegem/media-one-pager/wp-content/themes/thegem/fonts/montserrat-ultralight.eot');
+	src: url('http://codex-themes.com/thegem/media-one-pager/wp-content/themes/thegem/fonts/montserrat-ultralight.eot?#iefix') format('embedded-opentype'),
+		url('http://codex-themes.com/thegem/media-one-pager/wp-content/themes/thegem/fonts/montserrat-ultralight.woff') format('woff'),
+		url('http://codex-themes.com/thegem/media-one-pager/wp-content/themes/thegem/fonts/montserrat-ultralight.ttf') format('truetype'),
+		url('http://codex-themes.com/thegem/media-one-pager/wp-content/themes/thegem/fonts/montserrat-ultralight.svg#montserratultra_light') format('svg');
 		font-weight: normal;
 		font-style: normal;
 }
@@ -149,10 +149,10 @@
 .widget_categories > ul,
 .widget_product_categories > ul,
 .widget_pages > ul {
-	font-family: 'arial';
+	font-family: 'Source Sans Pro';
 }
 .primary-navigation.responsive li a {
-	font-family: 'arial';
+	font-family: 'Source Sans Pro';
 }
 
 #primary-menu.no-responsive > li.megamenu-enable > ul li > a,
@@ -223,7 +223,7 @@ input[type="text"].coupon-code,
 .single-product-content .price,
 .widget_shopping_cart ul li .quantity,
 .widget_shopping_cart .total span.amount {
-	font-family: 'arial';
+	font-family: 'Source Sans Pro';
 }
 
 .styled-subtitle,
@@ -344,7 +344,7 @@ input[type="text"].coupon-code,
 h1,
 .pricing-table-style-8 .pricing-cost,
 .title-h1 {
-	font-family: 'arial';
+	font-family: 'Montserrat';
 }
 
 h1,
@@ -379,7 +379,7 @@ h2,
 .title-h2,
 h3.comment-reply-title,
 .pricing-table-style-6 .pricing-price-title {
-	font-family: 'arial';
+	font-family: 'Montserrat';
 }
 
 h2,
@@ -431,7 +431,7 @@ h3,
 .woocommerce table.shop_table.order-details tr.cart_item td.product-total .amount,
 .woocommerce table.shop_table.order-details tr.order_item td.product-total .amount,
 .gem-dropcap {
-	font-family: 'arial';
+	font-family: 'Montserrat';
 }
 
 h3,
@@ -471,11 +471,11 @@ h4,
 .gem-gallery-hover-gradient .gem-gallery-item-title,
 .gem-gallery-grid.hover-gradient .gallery-item .overlay .title,
 .gem-gallery-hover-gradient .gem-gallery-preview-carousel-wrap .gem-gallery-item .gem-gallery-item-title {
-	font-family: 'arial';
+	font-family: 'Montserrat';
 }
 @media only screen and (min-width: 992px) and (max-width: 1150px) {
 	.with-sidebar .portfolio.hover-horizontal-sliding .overlay .links .caption .title {
-		font-family: 'arial';
+		font-family: 'Montserrat';
 	}
 }
 
@@ -558,7 +558,7 @@ h5,
 .gem-quote.gem-quote-style-5,
 .blog-style-styled_list1 .post-time,
 .gem-teams-phone {
-	font-family: 'arial';
+	font-family: 'Montserrat';
 }
 
 h5,
@@ -628,7 +628,7 @@ h6,
 .diagram-wrapper.style-3 .digram-line-box .skill-title,
 .row .vc_progress_bar .vc_label,
 .pricing-column-top-choice .pricing-column-top-choice-text {
-	font-family: 'arial';
+	font-family: 'Montserrat';
 }
 
 h6,
@@ -674,7 +674,7 @@ h6,
 }
 
 .title-xlarge {
-	font-family: 'arial';
+	font-family: 'Montserrat';
 }
 
 .title-xlarge {
@@ -746,7 +746,7 @@ h6.light,
 body .vc_grid-container ul.vc_grid-filter li.vc_grid-filter-item > span,
 .gem-media-grid .vc_gitem-post-data-source-post_title a,
 .gem-media-grid-2 .vc_gitem-post-data-source-post_title a {
-	font-family: 'arial';
+	font-family: 'Montserrat UltraLight';
 }
 
 h1 .light,
@@ -806,7 +806,7 @@ option,
 .widget_archive li,
 .woocommerce-cart-form.responsive .cart-item .gem-table .shop_table td.product-price,
 .gem-media-grid-2 .vc_gitem-animated-block .vc_gitem-zone-b .vc_gitem-post-data-source-post_excerpt > div {
-	font-family: 'arial';
+	font-family: 'Source Sans Pro';
 }
 
 body,
@@ -1131,7 +1131,7 @@ line-height: 31px;
 
 .gem-counter-number,
 .diagram-circle .text div span {
-	font-family: 'arial';
+	font-family: 'Montserrat';
 }
 
 .gem-counter-number,
